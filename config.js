@@ -1,22 +1,17 @@
-// 霸都丶傲天 2019/7/9  https://Github.com/AJLoveChina
 var config = {
-    // 下面的句子不一定非要7句， 你也可以改成4句，2句话都可以
     lines: [
-        "亲爱的雯雯",
-        "花开一季，有落红为证",
-        "逝去的岁月，如何能托于烟尘",
-        "你的浅笑，是我永生眷恋",
-        "相思的真情，是否能明白一二",
-        "亲爱的宝贝，你是我的唯一",
-        "爱你永远。。。",
+        "BB～",
+        "To the world you may be just one person.To me you are the world.",
+        "You are my first choice.",
+        "I will choose you over and over and over.",
+        "Without pause.",
+        "Without that.",
+        "Love you can do everything for you～",
+        "BB~我不想和你承诺很多，你也不希望我说的话都是大饼吧~",
+        "所以我会用我的实际行动来证明我爱你呀~！！！",
+        "Only you~,no one can replace you~!!!",
+        "所以BB~你可以相信我嘛~",
     ],
-    // 相爱的时间 记住格式不能写错了, 非常重要
-    // 格式一定要和下面这个时间格式一样
-    // 分别是 年-月-日T时时:分分:秒秒
-    //      温馨警告:
-    //          1.时分秒都必须是俩个数字  比如 00:00:00
-    //          2.T不能丢了
-    date: "2017-07-20T20:15:00",
-    // 双方的名字
-    names: ["笨笨熊", "黑猪猪"]
+    date: "2022-05-20T17:20:00",
+    names: ["羊🐏", "猪🐖"]
 }
