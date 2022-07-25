@@ -1,6 +1,6 @@
 var config = {
     lines: [
-        "BB～",
+        "BB～ 宝贝~ 亲爱的~",
         "To the world you may be just one person.To me you are the world.",
         "You are my first choice.",
         "I will choose you over and over and over.",
